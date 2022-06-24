@@ -1,7 +1,7 @@
 let result;
 
 const operator = prompt(
-  "Doctus asks 'what operation should be performed' ( either +, -, * or / ): "
+  "'what operation should be performed' ( either +, -, * or / ): "
 );
 
 const number1 = parseFloat(prompt("Enter your first number: "));
